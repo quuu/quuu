@@ -1,7 +1,7 @@
 
 [LinkedIn](https://linkedin.com/andrew-qu)
 
-[Twitter](https://twitter.com/andrewqulol)
+[Twitter](https://twitter.com/andrewqu_)
 
 [Website](https://andrewqu.me)
 

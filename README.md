@@ -5,7 +5,7 @@
 
 [Website](https://andrewqu.me)
 
-[Email](mailto:andrewqu1@icloud.com)
+[Email](mailto:andrewquu@gmail.com)
 
 
 Working on building a better virtual event experience...

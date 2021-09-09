@@ -7,5 +7,3 @@
 
 [Email](mailto:andrewquu@gmail.com)
 
-
-Working on building a faster, more human way to work...

@@ -7,4 +7,4 @@
 
 [Email](mailto:andrewquu@gmail.com)
 
- <a href="https://github.com/quuu/quuu/blob/master/assets/Personal.pkpass&raw=true">![Tux, the Linux mascot](./assets/AddToAppleWallet.svg)</a>
+ <a href="https://andrewqu.me/Personal.pkpass">![Virtual Business Card](./assets/AddToAppleWallet.svg)</a>

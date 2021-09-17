@@ -7,4 +7,4 @@
 
 [Email](mailto:andrewquu@gmail.com)
 
- <a href="./assets/Generic.pkpass">![Tux, the Linux mascot](./assets/AddToAppleWallet.svg)</a>
+ <a href="./assets/Coupon.pkpass">![Tux, the Linux mascot](./assets/AddToAppleWallet.svg)</a>
